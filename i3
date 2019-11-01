@@ -1,1 +1,0 @@
-/home/victor/.i3
