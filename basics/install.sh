@@ -60,3 +60,6 @@ sudo pacman -S pritunl-client-electron-numix-theme
 
 # Install DBeaver
 yay dbeaver
+
+# Install pywal
+yay pywal
